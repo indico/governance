@@ -133,9 +133,11 @@ Manager** make up the leadership of the Indico Community.
     -   Appointed by the Consultative Board upon recommendation by any
         of the members (2-year term);
 
-    -   Responsible for the community-based aspects of Indico, including the
-        organisation of the Indico workshops, management of community-oriented
-        tools and identification of synergies across sites.
+    -   Responsible for the community-based aspects of Indico, in
+        particular interfacing with developers, instance administrators
+        and other decision makers, and including the organisation of the
+        Indico workshops, management of community-oriented tools and
+        identification of synergies across sites.
 
 -   **Product Manager**
 
