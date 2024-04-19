@@ -36,10 +36,6 @@ Pedro Ferreira - **CERN**
 
 ![CERN Logo](assets/logo_cern.png) ![CERN Logo](assets/logo_mpp.png) ![CERN Logo](assets/logo_unog.png)
 
-#### Also invited to the board
-
-- Community Manager - Bea Medina - **Unconventional**
-
 ### Participating Organizations
 
 *Expressions of interest welcome!*
