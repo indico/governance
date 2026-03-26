@@ -8,7 +8,7 @@ This repository provides the most up-to-date information on Indico's Governance 
 
 ### Community Manager
 
-Beatriz Medina - **Unconventional**
+Barbara Behrend - **Mainz Institute for Theoretical Physics (MITP)**
 
 ### Project Manager
 
@@ -16,7 +16,7 @@ Adrian Mönnich - **CERN**
 
 ### Product Manager
 
-Pedro Ferreira - **CERN**
+Thomas Baron - **CERN**
 
 
 ## Bodies
@@ -26,15 +26,16 @@ Pedro Ferreira - **CERN**
 #### Project Representatives
 
 - Project Manager - Adrian Mönnich - **CERN**
-- Community Manager - Beatriz Medina - **Unconventional**
-- Product Manager - Pedro Ferreira - **CERN**
+- Community Manager - Barbara Behrend - **Mainz Institute for Theoretical Physics (MITP)**
+- Product Manager - Thomas Baron - **CERN**
 
 #### Partner Organizations
 
 - Andrii Verbytskyi - **MPP - Max-Planck Institute for Physics**
-- Frank Moser - **UNOG - United Nations Office in Geneva**
+- Denis Dominguez - **UNOG - United Nations Office in Geneva**
+- Alejandro Avilés - **UNCONVENTIONAL**
 
-![CERN Logo](assets/logo_cern.png) ![CERN Logo](assets/logo_mpp.png) ![CERN Logo](assets/logo_unog.png)
+![CERN Logo](assets/logo_cern.png) ![CERN Logo](assets/logo_mpp.png) ![CERN Logo](assets/logo_unog.png) ![UNCONVENTIONAL Logo](assets/logo_unconventional.png)
 
 ### Participating Organizations
 
