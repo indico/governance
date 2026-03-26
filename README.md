@@ -35,7 +35,7 @@ Thomas Baron - **CERN**
 - Denis Dominguez - **UNOG - United Nations Office in Geneva**
 - Alejandro Avilés - **UNCONVENTIONAL**
 
-![CERN Logo](assets/logo_cern.png) ![CERN Logo](assets/logo_mpp.png) ![CERN Logo](assets/logo_unog.png) ![UNCONVENTIONAL Logo](assets/logo_unconventional.png)
+![CERN Logo](assets/logo_cern.png) ![CERN Logo](assets/logo_mpp.png) ![CERN Logo](assets/logo_unog.png) <img alt="UNCONVENTIONAL Logo" src="assets/logo_unconventional.png" width=200>
 
 ### Participating Organizations
 
